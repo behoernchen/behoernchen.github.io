@@ -9,11 +9,8 @@
           <title>Iconizer v2.1.3</title>
           <description>
             <![CDATA[
-            <ul>
-              <li>Updated Sparkle version</li>
-              <li>New app icon</li>
-              <li>Minor code improvements</li>
-            </ul>
+            <p>
+              Rebuild with Swift 2.1.1 and Xcode 7.2 (7C68).
             ]]>
           </description>
           <pubDate>Thu, 10 Dec 2015 16:00:00 +0100</pubDate>
@@ -47,6 +44,6 @@
             sparkle:dsaSignature="MCwCFGJ0OwPrBRMiaW9QHkpcJHp+AoosAhRc1t5eGRogCAfGsEpjDU186jIV2A=="
             length="5727344"
             type="application/octet-stream" />
-          </item>
+        </item>
     </channel>
 </rss>

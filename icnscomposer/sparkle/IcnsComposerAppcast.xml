@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+          <title>Icns Composer v1.2.2</title>
+          <description>
+            <![CDATA[
+            <p>
+              Rebuild with Swift 2.1.1 and Xcode 7.2 (7C68).
+            </p>
+            ]]>
+          </description>
+          <pubDate>Thu, 10 Dec 2015 12:00:00 +0100</pubDate>
+          <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+          <enclosure
+            url="https://github.com/raphaelhanneken/icnscomposer/releases/download/1.2.2/Icns.Composer.dmg"
+            sparkle:version="50"
+            sparkle:shortVersionString="1.2"
+            sparkle:dsaSignature="MCwCFGy18ds0oUoqF4rccWNTri6bZQPJAhRLjoIcOWoCPPbz2nFnoBsBOmzCYQ=="
+            length="5363157"
+            type="application/octet-stream" />
+        </item>
+
+        <item>
           <title>Icns Composer v1.2.1</title>
           <description>
             <![CDATA[
@@ -15,15 +35,15 @@
             </p>
             ]]>
           </description>
+          <pubDate>Thu, 15 Oct 2015 12:00:00 +0100</pubDate>
+          <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+          <enclosure
+            url="https://github.com/raphaelhanneken/icnscomposer/releases/download/1.2.1/Icns.Composer.dmg"
+            sparkle:version="47"
+            sparkle:shortVersionString="1.2"
+            sparkle:dsaSignature="MCwCFDsPenfnZ6J1XTllxEd/VQW0NLziAhQISEgyhLuqQOAGjBqaZNdUUX8XcA=="
+            length="5763157"
+            type="application/octet-stream" />
         </item>
-        <pubDate>Thu, 15 Oct 2015 12:00:00 +0100</pubDate>
-        <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-        <enclosure
-          url="https://github.com/raphaelhanneken/icnscomposer/releases/download/1.2.1/Icns.Composer.dmg"
-          sparkle:version="47"
-          sparkle:shortVersionString="1.2"
-          sparkle:dsaSignature="MCwCFDsPenfnZ6J1XTllxEd/VQW0NLziAhQISEgyhLuqQOAGjBqaZNdUUX8XcA=="
-          length="5467224"
-          type="application/octet-stream" />
     </channel>
 </rss>
